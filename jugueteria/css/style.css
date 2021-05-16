@@ -6,23 +6,25 @@ body,a{
     width:1420px;
     padding:10px;
     box-sizing: border-box;
-
 }
+
 #navegador{
     /*flexbox h1 y nav(hijos)*/
     display:flex;
     align-items: center;
-    justify-content:space-between;
+    }
+
+nav a{
+    text-decoration:none;
+    font-size:18px;
+    color:#000;    
+    margin-left:40px;
 }
-nav a:nth-child(2){
-    /*enlace 2  de (hijo) nav*/
+/* nav a:nth-child(2){
+    enlace 2  de (hijo) nav
     margin:0px;
     color:red;
-}
-
-
-
-
+} */
 
 ul{
    list-style: none;
@@ -33,5 +35,3 @@ ul{
 ul,li{
     margin-bottom:15px;
 }
-
-
