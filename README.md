@@ -1,1 +1,1 @@
-# Ejercicio Reproducir en código un diseño de una juguetería
+# Ejercicio Reproducir en código el diseño de una juguetería.
